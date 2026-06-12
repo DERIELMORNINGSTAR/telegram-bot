@@ -26,7 +26,7 @@ from telegram.ext import (
 #  CONFIGURATION
 # ──────────────────────────────────────────────
 
-BOT_TOKEN = "METS_TON_TOKEN_ICI"   # ← remplace par le token de @BotFather
+BOT_TOKEN = 8859524778:AAE_4A5hEV1qed1KzoROl3d1O1yAGM4zuXY# ← remplace par le token de @BotFather
 
 logging.basicConfig(
     format="%(asctime)s - %(name)s - %(levelname)s - %(message)s",
